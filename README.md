@@ -2,6 +2,8 @@
 
 A PyTorch implementation of **Wasserstein GAN with Gradient Penalty (WGAN-GP)** for high-quality MNIST digit synthesis, featuring four latent space sampling strategies including the paper-based **DOT (Discriminator Optimal Transport)** method.
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?logo=pytorch) ![License](https://img.shields.io/badge/License-MIT-green)
+
 ## Highlights
 
 - WGAN-GP training with spectral normalization + layer normalization in the critic
