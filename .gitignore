@@ -1,0 +1,9 @@
+CLAUDE.md
+venv/
+__pycache__/
+*.pyc
+samples/
+outputs/
+data/
+.DS_Store
+*.icloud
